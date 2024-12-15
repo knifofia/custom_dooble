@@ -1,4 +1,5 @@
 asttokens==3.0.0
+chardet==5.2.0
 colorama==0.4.6
 comm==0.2.2
 debugpy==1.8.9
@@ -11,7 +12,9 @@ jupyter-client==8.6.3
 jupyter-core==5.7.2
 matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
+numpy==2.2.0
 packaging==24.2
+pandas==2.2.3
 parso==0.8.4
 pillow==11.0.0
 platformdirs==4.3.6
@@ -20,12 +23,15 @@ psutil==6.1.0
 pure-eval==0.2.3
 pygments==2.18.0
 python-dateutil==2.9.0.post0
+pytz==2024.2
 pywin32==308
 pyzmq==26.2.0
+reportlab==4.2.5
 six==1.17.0
 stack-data==0.6.3
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
 typing-extensions==4.12.2
+tzdata==2024.2
 wcwidth==0.2.13
